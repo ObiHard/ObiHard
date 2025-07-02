@@ -37,11 +37,13 @@
 
 ### Tools
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)](https://www.jetbrains.com/pycharm/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<p>
+  <img alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="30" height="30" />
+  <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="30" height="30" />
+  <img alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="30" height="30" />
+  <img alt="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30" height="30" />
+  <img alt="VS Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="30" height="30" />
+</p>
 
 ###
 
