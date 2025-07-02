@@ -42,10 +42,10 @@
   <img alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40" height="40" />
   <img alt="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="40" height="40" />
   <img alt="VS Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" />
-  <img alt="Flask" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" width="40" height="40" style="background:white; border-radius:5px;" />
-  <img alt="Django" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/django.svg" width="40" height="40" style="background:white; border-radius:5px;" />
-  <img alt="FastAPI" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/icon-white.svg" width="40" height="40" style="background:white; border-radius:5px;" />
-
+  <img alt="Flask" src="https://www.svgrepo.com/svg/32517/flask" width="40" height="40" />
+  <img alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-white.svg" width="40" height="40" />
+  <img alt="FastAPI" src="https://fastapi.tiangolo.com/img/logo-white.svg" width="40" height="40" />
+  
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </p>
 
