@@ -5,7 +5,7 @@
 ### Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mykyta-ivanenko/" target="_blank">
+  <a href="https://www.linkedin.com/in/mykyta-ivanenko-689305360/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
   </a>
