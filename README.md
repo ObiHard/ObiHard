@@ -21,14 +21,6 @@
 
 ###
 
-<h3 align="left">Tools:</h3>
-
-###
-
-<h3 align="left">Soft Skills: Problem solving, Responsibility, Teamwork, Continuous learning</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -38,6 +30,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+
+###
+
+<h3 align="left">Tools:</h3>
+
+###
+
+<h3 align="left">Soft Skills: Problem solving, Responsibility, Teamwork, Continuous learning</h3>
 
 ###
 
