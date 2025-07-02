@@ -4,7 +4,8 @@
 
 ### Контакты
 
-[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/your-profile-link/)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/your-profile-link/)
+
 
 [![Telegram](https://cdn-icons-png.flaticon.com/48/2111/2111646.png)](https://t.me/your-telegram)
 
