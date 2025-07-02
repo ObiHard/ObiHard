@@ -5,12 +5,11 @@
 ### Contact
 
 <p>
-
-  <a href="https://www.linkedin.com/in/your-profile-link/" target="_blank">
+  <a href="https://www.linkedin.com/in/mykyta-ivanenko/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
          style="border-radius: 12px; margin-right: 8px;" />
   </a>
-  <a href="https://t.me/your-telegram" target="_blank">
+  <a href="https://t.me/ObiHard" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2300ACEE.svg?style=for-the-badge&logo=telegram&logoColor=white" 
          style="border-radius: 12px;" />
   </a>
