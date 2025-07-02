@@ -30,7 +30,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <svg height="40" viewBox="0 0 100 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="30" font-size="30" fill="#00758f" font-family="Arial, sans-serif">SQL</text>
+  </svg>
 </div>
 
 
