@@ -50,3 +50,8 @@
 
 <h3 align="left">📚 Education: Mate Academy – Python Developer Program
 In progress (2025)</h3>
+
+###
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiHard&show_icons=true&theme=radical)
+
