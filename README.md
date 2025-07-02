@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 </div>
 
 
-### Tools:
+### Tools
 
 <p>
   <img alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" />
