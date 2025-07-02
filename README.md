@@ -8,7 +8,6 @@
 
 <h1 align="center">Hi!👨‍💻 My name is Mykyta!</h1>
 
-
 ###
 
 <h3 align="left">📓 About Me</h3>
