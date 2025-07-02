@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi! My name is Mykyta!</h1>
 
+### Контакты
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/48/174/174857.png)](https://www.linkedin.com/in/your-profile-link/)  
+[![Telegram](https://cdn-icons-png.flaticon.com/48/2111/2111646.png)](https://t.me/your-telegram)
+
+
 ###
 
 <h3 align="left">📓 About Me</h3>
