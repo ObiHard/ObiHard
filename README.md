@@ -26,5 +26,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
 
-
 ###
+
+<h3 align="left">📚 Education: Mate Academy – Python Developer Program
+In progress (2025)</h3>
