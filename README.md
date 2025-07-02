@@ -31,15 +31,12 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
 
-###
 
-<h3 align="left">Tools:</h3>
-
-### Tools
+### Tools:
 
 <p>
   <img alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="30" height="30" />
-  <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="30" height="30" />
+  <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" height="30" style="background:white; border-radius:5px;" />
   <img alt="Linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="30" height="30" />
   <img alt="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30" height="30" />
   <img alt="VS Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="30" height="30" />
