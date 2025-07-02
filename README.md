@@ -4,16 +4,17 @@
 
 ### Contact
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mykyta-ivanenko/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-         style="border-radius: 12px; margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
   </a>
   <a href="https://t.me/ObiHard" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%2300ACEE.svg?style=for-the-badge&logo=telegram&logoColor=white" 
-         style="border-radius: 12px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+         alt="Telegram" width="40" height="40" style="border-radius: 50%;" />
   </a>
 </p>
+
 
 
 ###
