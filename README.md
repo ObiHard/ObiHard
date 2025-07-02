@@ -50,7 +50,6 @@
   <img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" height="40" alt="sql logo" />
 </div>
 
-
 ### Tools
 
 <p>
