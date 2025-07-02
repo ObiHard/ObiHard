@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! My name is Mykyta!</h1>
 
-### Contact
+###📲️Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mykyta-ivanenko-689305360/" target="_blank">
