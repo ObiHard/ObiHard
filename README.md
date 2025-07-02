@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi! My name is Mykyta!</h1>
 
-### Contact<p>
+### Contact
+
+<p>
 
   <a href="https://www.linkedin.com/in/your-profile-link/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
