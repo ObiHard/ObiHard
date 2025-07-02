@@ -1,10 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" width="600" src="https://cdn.pixabay.com/video/2022/01/23/105446-670502919_large.mp4"  />
-</div>
-https://cdn.pixabay.com/video/2022/01/23/105446-670502919_large.mp4
-
 ###
 
 <h1 align="center">Hi! My name is Mykyta!</h1>
