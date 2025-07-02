@@ -4,13 +4,9 @@
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/your-profile-link/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/48/174/174857.png" width="30" height="30" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2300ACEE.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
 
-<a href="https://t.me/your-telegram" target="_blank" style="margin-left:10px;">
-  <img src="https://cdn-icons-png.flaticon.com/48/2111/2111646.png" width="30" height="30" alt="Telegram"/>
-</a>
 
 ###
 
