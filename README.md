@@ -9,6 +9,7 @@
 ###
 
 <p align="left">Motivated and detail-oriented beginner Python developer with a strong interest in software development, web technologies, and automation. I am currently studying at Mate Academy, where I’m gaining hands-on experience in Python, Git, and Linux. Eager to contribute to real projects and grow as a developer.</p>
+
 ###
 
 <h3 align="left">.🛠️ Skills:</h3>
@@ -16,7 +17,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages:</h3>
+<h3 align="left">Languages:</h3>
 
 ###
 
