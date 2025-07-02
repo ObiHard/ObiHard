@@ -9,7 +9,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
   </a>
-  <a href="https://t.me/ObiHard" target="_blank">
+  <a href="https://t.me/@BrEAkk0" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
          alt="Telegram" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
   </a>
