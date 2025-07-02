@@ -11,10 +11,13 @@
   </a>
   <a href="https://t.me/ObiHard" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
-         alt="Telegram" width="40" height="40" style="border-radius: 50%;" />
+         alt="Telegram" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/your_username/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+         alt="Instagram" width="40" height="40" style="border-radius: 12px;" />
   </a>
 </p>
-
 
 
 ###
