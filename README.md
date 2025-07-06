@@ -67,10 +67,10 @@
 <h3 align="left">📚 Education: Mate Academy – Python Developer Program
 In progress (2025)</h3>
 
-<h3>Most Used Languages 📝</h3>
+###
 
 <h3>My GitHub History 📈</h3>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiHard&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObiHard&layout=compact&theme=radical)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiHard&show_icons=true&theme=radical)
