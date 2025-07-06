@@ -4,13 +4,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="css3 logo" />
-  <img src="https://skillicons.dev/icons?i=py" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="python logo" />
-  <img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" width="35" height="35" style="object-fit: contain;" alt="sql logo" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mykyta-ivanenko-689305360/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
+  <a href="https://t.me/BrEAkk0" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+         alt="Telegram" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/m.o.h.i.t.o7/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+         alt="Instagram" width="40" height="40" style="border-radius: 12px;" />
+  </a>
+</p>
 
 ###
 
@@ -32,15 +39,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" height="40" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=py" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="python logo" />
+  <img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" width="35" height="35" style="object-fit: contain;" alt="sql logo" />
 </div>
 
 ### Tools
@@ -71,9 +74,3 @@ In progress (2025)</h3>
 <h3>My GitHub History 📈</h3>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiHard&show_icons=true&theme=radical)
-
-###
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="Capsule Animation" width="200" />
-</p>
