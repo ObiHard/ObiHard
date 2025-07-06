@@ -73,5 +73,9 @@ In progress (2025)</h3>
 
 ###
 <h3>My GitHub History 📈</h3>
+
+###
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiHard&show_icons=true&theme=radical)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
