@@ -79,4 +79,8 @@ In progress (2025)</h3>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiHard&show_icons=true&theme=radical)
 
-![Snake animation](https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg)
+###
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="Capsule Animation" width="200" />
+</p>
