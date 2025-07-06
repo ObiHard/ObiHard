@@ -4,20 +4,13 @@
 
 ###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mykyta-ivanenko-689305360/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
-  </a>
-  <a href="https://t.me/BrEAkk0" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
-         alt="Telegram" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/m.o.h.i.t.o7/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
-         alt="Instagram" width="40" height="40" style="border-radius: 12px;" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=py" width="35" height="35" style="object-fit: contain; margin-right: 8px;" alt="python logo" />
+  <img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" width="35" height="35" style="object-fit: contain;" alt="sql logo" />
+</div>
 
 ###
 
